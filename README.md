@@ -1,2 +1,2 @@
-[**Finanza Wordpress Theme**]
+# Finanza Wordpress Theme
 
