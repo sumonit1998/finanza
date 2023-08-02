@@ -1,0 +1,2 @@
+#[Finanza Wordpress theme]
+
